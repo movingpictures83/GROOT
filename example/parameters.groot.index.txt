@@ -1,0 +1,4 @@
+grootexecutable	~vsteb002/miniconda3/envs/groot/bin/groot
+operation	index
+clusters	CLUSTERED_DB
+width	150
