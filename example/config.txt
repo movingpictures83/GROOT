@@ -1,2 +1,2 @@
 Prefix plugins/GROOT/example/
-Plugin GROOT inputfile parameters.groot.index.txt outputfile megares2_index
+Plugin GROOT inputfile parameters.groot.index.txt outputfile ./
